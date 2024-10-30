@@ -1,0 +1,130 @@
+.cj_comment_label
+{
+	color:black;
+	font-weight:bold;
+	padding-left:15px;
+	padding-top:5px;
+	padding-bottom:5px;
+	float:left;
+}
+.cj_comment_button
+{
+	padding-bottom:15px;
+}
+.cj_not_completed
+{
+	padding-left:5px;
+	padding-top:5px;
+}
+.cj_comment_button_edit
+{
+	float:right;
+}
+.cj_completed
+{
+	color:grey;
+        padding-left:5px;
+}
+.cj_comments
+{
+	background-color:#ffffcd;
+}
+.cj_comment_table
+{
+	width:100%;
+}
+.cj_completed_on_comment
+{
+	padding-left:25px;
+}
+.cj_comment_overlay
+{
+	display:none;
+	position:absolute;
+	background-color:#c4df9c;
+	width:575px;
+}
+.cj_comment_overlay_admin
+{
+        display:none;
+        position:absolute;
+        background-color:#c4df9c;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	width:420px
+}
+.cj_comment_button_post
+{
+	float:left;
+	padding-top:20px;
+	padding-left:15px;
+	padding-bottom:15px;
+}
+#cj_comment_input_area
+{
+	width:535px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top:15px;
+	clear:both;
+}
+#cj_comment_input
+{
+	width:100%;
+}
+#cj_edit_comment
+{
+	float:left;
+}
+#cj_submit_comment
+{
+	float:right;
+}
+#cj_comment_close
+{
+	float:right;
+	padding-right:10px;
+	padding-top:10px;
+}
+#cj_admin_header
+{
+	float:left;
+	margin-left:-10px; /*this is to push it back to the left since it is now shifted :(*/
+}
+#cj_admin_save
+{
+	float:right;
+}
+#cj_admin_comment_text
+{
+	clear:both;
+	float:left;
+	padding-bottom:10px;
+}
+#cj_admin_comments_input
+{
+	width:100%;
+}
+#cj_admin_checkboxes
+{
+	clear:both;
+}
+#cj_admin_completed
+{
+	float:left;
+}
+#cj_admin_approved
+{
+	float:right;
+}
+#cj_admin_comments
+{
+	padding-top:25px;
+}
+.cj_error
+{
+	color:red;
+	font-size: 12px;	
+}
